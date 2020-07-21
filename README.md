@@ -1,1 +1,2 @@
 # Regression-Analysis
+This is statistical report is to analyze “Students’ Performance”.  The dataset is picked from an online website named, UCI-Machine Learning Repository. There were all together 31 factors available that were claimed to affect a student’s performance. Hence, did few sample t-tests to check the significance that each factor holds and finalized 14 factors that were  more impactful. After the completion of this process, applied few statistical tests and obtained results. Project is implemented in R
